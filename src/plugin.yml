@@ -1,0 +1,12 @@
+name: Timber
+author: thomi100
+version: 1.1.0
+website: http://thomi100.net
+description: Break trees in seconds!
+
+main: thomi100.net.TimberMain
+
+commands:
+  timber:
+    description: Main command for the Plugin
+    usage: /timber <reload/settings>
